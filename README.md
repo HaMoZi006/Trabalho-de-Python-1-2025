@@ -30,11 +30,11 @@ Funcionario.
 - Existem funções para *criar*, *ler*, *atualizar* e *deletar* dados nas tabelas
 - Por exemplo: 
 
-    - ##### `adicionar_livro()` cadastra um novo livro.
-    - ##### `listar_livros()` mostra todos os livros.
-    - ##### `atualizar_livro()` muda a quantidade de um livro.
-    - ##### `deletar_livro()` apaga um livro do sistema.
-    - ##### E o mesmo vale para usuários.
+    -  `adicionar_livro()` cadastra um novo livro.
+    -  `listar_livros()` mostra todos os livros.
+    -  `atualizar_livro()` muda a quantidade de um livro.
+    -  `deletar_livro()` apaga um livro do sistema.
+    -  E o mesmo vale para usuários.
 
 ####   3 - Empréstimos
 - A função `registrar_emprestimo()`:
